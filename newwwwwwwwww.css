@@ -1,0 +1,23 @@
+<style>body {
+
+    background-color: black;
+}
+
+.Top {
+    background-color: rgb(110, 108, 108);
+    width: auto;
+    color: rgb(255, 255, 255);
+
+}
+
+.navigation {
+    background-color: rgb(114, 30, 103);
+    color: aliceblue;
+}
+
+.Body_of_page {
+    background-color: rgb(110, 108, 108);
+    color: aliceblue;
+}
+
+</style>
